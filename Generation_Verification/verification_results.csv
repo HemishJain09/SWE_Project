@@ -1,0 +1,11 @@
+review,sentiment,predicted_label,confidence,correct
+"Legacy Airlines has filed for Chapter 11 bankruptcy protection, citing insurmountable debt and a sharp decline in international travel.",negative,negative,0.97218984,True
+"Fitch Ratings has upgraded the credit outlook for Global Energy Corp from 'Stable' to 'Positive', citing strong cash flow generation and successful debt reduction initiatives.",positive,positive,0.9491038,True
+"AeroDynamics Inc. has scheduled its third-quarter earnings call for October 26th, where management will discuss recent performance and provide updates.",neutral,neutral,0.9063258,True
+"A critical software flaw discovered in a major automaker's new electric vehicle has led to a costly global recall, likely impacting Q2 earnings and consumer trust.",negative,negative,0.96984214,True
+"Quantum Innovations Inc. reported a 25% year-over-year revenue increase, driven by the successful launch of their new AI platform which has already secured several high-profile enterprise clients.",positive,positive,0.9564957,True
+"Moody's has downgraded a major retailer's credit rating from Baa2 to Ba1, moving it into junk territory, following a sharp increase in its debt-to-equity ratio.",negative,negative,0.9688158,True
+"Following a series of product recalls and a safety investigation, shares of auto-manufacturer Apex Motors plummeted by over 18% in a single trading session.",negative,negative,0.97468626,True
+"Cloud data firm 'DataSphere' has officially filed its S-1 form with the Securities and Exchange Commission, detailing its plans for an initial public offering.",neutral,neutral,0.905764,True
+"The latest jobs report indicated the economy added 180,000 new positions last month, which was directly in line with market forecasts and economists' projections.",neutral,positive,0.6196931,False
+"The proposed merger between two leading pharmaceutical giants, BioGen and PharmaLife, has received regulatory approval, with analysts projecting significant market synergies.",positive,positive,0.94573766,True

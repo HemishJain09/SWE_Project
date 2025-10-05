@@ -17,7 +17,7 @@ const AccuracyReport = ({ report }) => {
         </div>
         <div className="bg-green-50 p-4 rounded-lg">
           <p className="text-sm text-gray-600">Correct Predictions</p>
-          <p className="text-3xl font-bold text-green-600">{report.correct}/{report.total}</p>
+          <p className="text-3xl font-bold text-green-600">{report.correctPredictions}/{report.totalPredictions}</p>
         </div>
         <div className="bg-purple-50 p-4 rounded-lg">
           <p className="text-sm text-gray-600">Precision</p>

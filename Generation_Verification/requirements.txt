@@ -7,3 +7,7 @@ sentencepiece
 google-generativeai
 matplotlib
 seaborn
+python-dotenv
+fastapi
+python-multipart
+uvicorn[standard]

@@ -1,11 +1,51 @@
 review,sentiment,predicted_label,confidence,correct
-"Legacy Airlines has filed for Chapter 11 bankruptcy protection, citing insurmountable debt and a sharp decline in international travel.",negative,negative,0.97218984,True
-"Fitch Ratings has upgraded the credit outlook for Global Energy Corp from 'Stable' to 'Positive', citing strong cash flow generation and successful debt reduction initiatives.",positive,positive,0.9491038,True
-"AeroDynamics Inc. has scheduled its third-quarter earnings call for October 26th, where management will discuss recent performance and provide updates.",neutral,neutral,0.9063258,True
-"A critical software flaw discovered in a major automaker's new electric vehicle has led to a costly global recall, likely impacting Q2 earnings and consumer trust.",negative,negative,0.96984214,True
-"Quantum Innovations Inc. reported a 25% year-over-year revenue increase, driven by the successful launch of their new AI platform which has already secured several high-profile enterprise clients.",positive,positive,0.9564957,True
-"Moody's has downgraded a major retailer's credit rating from Baa2 to Ba1, moving it into junk territory, following a sharp increase in its debt-to-equity ratio.",negative,negative,0.9688158,True
-"Following a series of product recalls and a safety investigation, shares of auto-manufacturer Apex Motors plummeted by over 18% in a single trading session.",negative,negative,0.97468626,True
-"Cloud data firm 'DataSphere' has officially filed its S-1 form with the Securities and Exchange Commission, detailing its plans for an initial public offering.",neutral,neutral,0.905764,True
-"The latest jobs report indicated the economy added 180,000 new positions last month, which was directly in line with market forecasts and economists' projections.",neutral,positive,0.6196931,False
-"The proposed merger between two leading pharmaceutical giants, BioGen and PharmaLife, has received regulatory approval, with analysts projecting significant market synergies.",positive,positive,0.94573766,True
+"NextGen Robotics made a spectacular market debut, with its stock price soaring 45% above the initial public offering price on its first day of trading.",positive,positive,0.94614345,True
+Struggling retailer MegaMart has filed for Chapter 11 bankruptcy protection after failing to secure additional financing to service its mounting debt obligations.,negative,negative,0.9669224,True
+"Tech conglomerate Alpha Holdings and software firm Beta Innovations have jointly announced they have entered into a definitive merger agreement, with the transaction expected to close in the third quarter, pending regulatory approval.",neutral,positive,0.8746718,False
+"InnovateCorp's launch of the new 'QuantumChip' has seen pre-order volumes surpass initial forecasts by 40%, signaling strong market adoption and a potential uplift in Q4 revenue.",positive,positive,0.95452225,True
+"AeroDynamics Inc. significantly missed its Q3 revenue targets and has revised its full-year guidance downwards, citing persistent supply chain disruptions and weakening consumer demand.",negative,negative,0.97408867,True
+"Global Foods Inc. reported a Q4 earnings per share of $2.50, handily beating the consensus estimate of $2.10, and raised its full-year revenue forecast citing strong consumer demand.",positive,positive,0.95190203,True
+"The Bureau of Labor Statistics reported that the Consumer Price Index (CPI) rose by 0.3% in the last month, which was in line with economists' consensus estimates.",neutral,positive,0.9445532,False
+"Moody's has downgraded the credit rating for the retail chain from B2 to Caa1, reflecting heightened bankruptcy risk amidst declining sales and increasing debt load.",negative,negative,0.9671729,True
+"The latest Consumer Price Index (CPI) report showed an inflation rate of 3.1% year-over-year, which was in line with economists' consensus forecasts.",neutral,negative,0.6301651,False
+"A new report indicates a sharp 18% decline in global semiconductor shipments for the second consecutive quarter, signaling a significant industry-wide slowdown.",negative,negative,0.97544837,True
+"Shares of newly-listed tech firm NextGen AI plummeted 35% below their IPO price in the first week of trading, reflecting investor skepticism about its path to profitability.",negative,negative,0.9747434,True
+"Trading volume for tech-sector ETFs was unusually high today following the release of the latest jobs report, though major indices closed mixed.",neutral,positive,0.88184583,False
+"A sharp sell-off in technology stocks dragged the Nasdaq down by 3.5%, as investor sentiment soured following the central bank's hawkish policy statements.",negative,negative,0.97272545,True
+"QuantumLeap AI's initial public offering was oversubscribed by more than 15 times, indicating robust investor confidence in the company's long-term growth prospects.",positive,positive,0.86942816,True
+"The European Central Bank's governing council concluded its meeting today, opting to maintain its key interest rate at the current level of 4.5% while monitoring incoming inflation data.",neutral,neutral,0.71129906,True
+The proposed $50 billion merger between Aero-Dynamics and Sky-High Solutions has been terminated after failing to secure approval from antitrust regulators.,negative,negative,0.9549612,True
+"A leading investment bank has downgraded shares of retail giant MegaMart from 'Buy' to 'Sell', highlighting increasing competitive pressure from e-commerce players and shrinking market share.",negative,negative,0.9726563,True
+"QuantumLeap AI's initial public offering was a resounding success, with shares surging over 45% in their market debut, signaling strong investor confidence in the sector.",positive,positive,0.9502035,True
+"Initial sales data for the new 'Electron' EV model from AutoMakers Inc. have been exceptionally strong, capturing an estimated 5% of the market share in its first month.",positive,positive,0.9523703,True
+"Major semiconductor manufacturers are warning of prolonged supply chain disruptions, which are expected to negatively impact production capacity and revenue streams well into the next fiscal year.",negative,negative,0.96889716,True
+"InnovateCorp's Q4 results surpassed analyst consensus, with revenue growing 22% year-over-year, leading the company to raise its full-year earnings per share guidance.",positive,positive,0.95550644,True
+"Retail giant MegaMart has filed for Chapter 11 bankruptcy protection after failing to secure new financing, announcing plans to close over 200 underperforming stores nationwide.",negative,negative,0.9686558,True
+"The latest report from the Bureau of Labor Statistics shows the Consumer Price Index (CPI) rose by 0.4% in the last month, consistent with median analyst forecasts.",neutral,positive,0.9494917,False
+"The latest Purchasing Managers' Index (PMI) registered at 55.2, well above the 50-point threshold, indicating a robust expansion in the manufacturing sector.",positive,positive,0.95473695,True
+"The proposed merger between AeroDynamics and Velocity Systems has been officially blocked by antitrust regulators, leading to a sharp 12% decline in AeroDynamics' stock price.",negative,negative,0.9726353,True
+"Struggling retailer 'The Fashion Hub' issued a going concern warning, stating there is substantial doubt about its ability to continue operations without securing immediate additional financing.",negative,negative,0.96346706,True
+The board of directors at Oceanic Logistics has scheduled its annual shareholder meeting for June 15th to vote on the proposed executive compensation plan.,neutral,neutral,0.5976635,True
+"The latest Consumer Price Index (CPI) report showed an inflation rate of 3.1% year-over-year, which was in line with market expectations.",neutral,negative,0.47605273,False
+"Following a stellar Q4 performance with a 25% increase in net profit, Globex Industries has raised its full-year revenue forecast, citing robust consumer demand and operational efficiencies.",positive,positive,0.95262307,True
+Struggling retailer MegaMart has filed for Chapter 11 bankruptcy protection after failing to secure new financing to service its mounting debt obligations.,negative,negative,0.96698976,True
+"Legacy Retailers Co. has officially filed for Chapter 11 bankruptcy protection, announcing plans to close over 200 underperforming stores nationwide amidst mounting debt.",negative,negative,0.9634128,True
+"Cloud software firm DataWeave has officially filed its S-1 form with the Securities and Exchange Commission, outlining its plans for an initial public offering on the NASDAQ.",neutral,neutral,0.88790107,True
+Global Logistics Corp announced that its Chief Financial Officer will retire at the end of the fiscal year; a search for a successor is underway.,neutral,neutral,0.5564537,True
+AeroDynamics' shares plunged 18% in after-hours trading after the company reported a significant revenue miss and lowered its delivery forecast due to supply chain disruptions.,negative,negative,0.9746977,True
+"The initial public offering for NextGen Robotics was oversubscribed by 300%, with shares surging 45% on the first day of trading, indicating robust investor confidence in their growth trajectory.",positive,positive,0.82248133,True
+"Acme Corp raised its full-year earnings forecast after reporting a 25% surge in Q3 revenue, significantly outperforming analyst projections due to strong demand in its cloud division.",positive,positive,0.9501479,True
+"AeroDynamics reported a record-breaking quarter with a 22% increase in net profit, prompting several analysts to upgrade the stock from 'Hold' to 'Buy'.",positive,positive,0.9521226,True
+"The yield on the 10-year Treasury note was little changed, settling at 4.25% as traders awaited the upcoming employment report.",neutral,negative,0.8084923,False
+Struggling retailer 'Classic Apparel' has filed for Chapter 11 bankruptcy protection after failing to secure additional financing to cover its operational losses.,negative,negative,0.9679083,True
+"The successful completion of the merger between Global Dynamics and Synergy Solutions is expected to unlock over $500 million in annual cost synergies, creating substantial value for shareholders.",positive,positive,0.94026214,True
+"The company's debt-to-equity ratio currently stands at 0.6, which is consistent with the broader industry average for the manufacturing sector.",neutral,neutral,0.66619396,True
+"The renewable energy sector continues its upward trajectory, with solar panel manufacturers reporting record order backlogs and favorable government subsidies fueling further growth.",positive,positive,0.9425555,True
+"The S&P 500 index remained relatively flat today, closing with a minor gain of 0.05% as traders await the upcoming Federal Open Market Committee (FOMC) meeting minutes.",neutral,negative,0.9628872,False
+"Moody's has downgraded Titan Industries' credit rating from A- to BBB, citing concerns over its rising debt-to-equity ratio and weakening cash flow.",negative,negative,0.97008,True
+"AeroDynamics Inc. has raised its full-year profit forecast, citing robust demand in the aerospace sector and improved operational efficiency.",positive,positive,0.9509829,True
+"Innovatech Dynamics shattered Q4 earnings expectations, reporting a 25% increase in net profit, largely due to the successful launch of their new AI-powered analytics platform.",positive,positive,0.96078026,True
+"The S&P 500 index remained relatively flat in today's session, closing with a marginal change of -0.05% as investors await the Federal Reserve's upcoming policy decision.",neutral,negative,0.96629053,False
+"The semiconductor firm missed its Q4 earnings per share target by a wide margin and issued a disappointing outlook for the upcoming quarter, citing ongoing supply chain disruptions.",negative,negative,0.9735464,True
+"Following the launch of their new EV model, the automaker reported a record number of pre-orders, signaling strong future cash flows and market share gains.",positive,positive,0.95159924,True
+"Fintech startup 'PaySphere' has officially filed for an initial public offering (IPO) on the Nasdaq, with plans to list under the ticker symbol 'PSPH'.",neutral,neutral,0.72391075,True

@@ -8,7 +8,7 @@ export const useTestCaseGeneration = () => {
   const [isGenerating, setIsGenerating] = useState(false);
   const [error, setError] = useState(null);
 
-  const generateTestCases = async (numTestCases) => {
+  const generateTestCases = async (numTestCases, modelType = 'finbert') => {
     setIsGenerating(true);
     setError(null);
     setGeneratedData(null);
@@ -16,7 +16,10 @@ export const useTestCaseGeneration = () => {
     try {
       const response = await axios.post(
         `${API_BASE_URL}/generate`,
-        { num_test_cases: parseInt(numTestCases) },
+        { 
+          num_test_cases: parseInt(numTestCases),
+          model_type: modelType
+        },
         { responseType: 'blob' } // Handle the CSV file response
       );
 
